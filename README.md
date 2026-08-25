@@ -9,9 +9,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-joaodobaile011-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/joaodobaile011)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Luiz-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joao-luiz-fermino-brandao-14b482352/)
-
 [![Visitors](https://komarev.com/ghpvc/?username=joaodobaile011\&style=flat-square\&color=161b22\&label=VISITANTES)](https://github.com/joaodobaile011)
 
 </div>
@@ -83,26 +81,6 @@ Desenvolvimento Web
 Git e GitHub
 Desenvolvimento de Software
 ```
-
----
-
-## GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joaodobaile011\&theme=github-dark\&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaodobaile011&theme=github-compact&hide_border=true&area=true" width="100%"/>
-
-</div>
 
 ---
 

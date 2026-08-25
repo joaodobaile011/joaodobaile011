@@ -9,7 +9,9 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-joaodobaile011-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/joaodobaile011)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Luiz-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joao-luiz-fermino-brandao-14b482352/)
+
 [![Visitors](https://komarev.com/ghpvc/?username=joaodobaile011\&style=flat-square\&color=161b22\&label=VISITANTES)](https://github.com/joaodobaile011)
 
 </div>
@@ -22,7 +24,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 4º s
 
 Tenho desenvolvido projetos acadêmicos e pessoais para colocar meus conhecimentos de programação em prática, buscando evoluir constantemente minhas habilidades técnicas e aprender novas tecnologias.
 
-Atualmente, meu foco está no desenvolvimento de software, programação e construção de aplicações web.
+Atualmente, meu foco está em **desenvolvimento de software, programação e aplicações web**.
 
 ---
 
@@ -84,19 +86,17 @@ Desenvolvimento de Software
 
 ---
 
-## GitHub Stats
+## GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaodobaile011&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodobaile011&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joaodobaile011\&theme=github-dark\&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## Atividade
+## Atividade no GitHub
 
 <div align="center">
 

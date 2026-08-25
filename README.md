@@ -38,7 +38,7 @@ Atualmente, meu foco está no desenvolvimento de software, programação e const
 
 <div align="center">
 
-**Java** • **C#** • **JavaScript** • **SQL** • **HTML** • **CSS** • **Git** • **GitHub**
+Java • C# • JavaScript • SQL • HTML • CSS • Git • GitHub
 
 </div>
 
@@ -88,9 +88,9 @@ Desenvolvimento de Software
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaodobaile011&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaodobaile011&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodobaile011&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodobaile011&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
 </div>
 
@@ -100,7 +100,7 @@ Desenvolvimento de Software
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaodobaile011&theme=github-compact&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaodobaile011&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -125,13 +125,3 @@ Desenvolvimento de Software
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
-
-<!--
-Widgets utilizados:
-- Capsule Render — cabeçalho e rodapé
-- Readme Typing SVG — animação de texto
-- Skill Icons — tecnologias
-- GitHub Readme Stats — estatísticas
-- GitHub Activity Graph — atividade
-- Komarev — contador de visitantes
--->
